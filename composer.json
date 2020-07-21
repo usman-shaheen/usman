@@ -1,7 +1,7 @@
 {
     "name": "usman/contact",
     "description": "This will send mail to admin and save data to the database",
-    "license": "Einnovention",
+    "license": "MIT",
     "authors": [
         {
             "name": "Usman Shaheen",

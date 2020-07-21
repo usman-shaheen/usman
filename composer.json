@@ -11,9 +11,11 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-     "autoload": {
+        "autoload-dev": {
         "psr-4": {
             "Usman\\Contact\\": "src/"
         }
     }
 }
+
+

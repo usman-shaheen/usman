@@ -1,0 +1,19 @@
+{
+    "name": "usman/contact",
+    "description": "This is demo",
+    "type": "library",
+    "license": "Einnovention",
+    "authors": [
+        {
+            "name": "Usman Shaheen",
+            "email": "smani170753@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "Usman\\Contact\\": "src/"
+        }
+    },
+}
